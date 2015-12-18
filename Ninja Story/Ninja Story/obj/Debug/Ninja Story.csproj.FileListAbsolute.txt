@@ -1,0 +1,5 @@
+C:\Users\Collin\Documents\Semster one Game Programming\Game Programing\Ninja Story\Ninja Story\Ninja Story\bin\Debug\Ninja Story.exe.config
+C:\Users\Collin\Documents\Semster one Game Programming\Game Programing\Ninja Story\Ninja Story\Ninja Story\bin\Debug\Ninja Story.exe
+C:\Users\Collin\Documents\Semster one Game Programming\Game Programing\Ninja Story\Ninja Story\Ninja Story\bin\Debug\Ninja Story.pdb
+C:\Users\Collin\Documents\Semster one Game Programming\Game Programing\Ninja Story\Ninja Story\Ninja Story\obj\Debug\Ninja Story.exe
+C:\Users\Collin\Documents\Semster one Game Programming\Game Programing\Ninja Story\Ninja Story\Ninja Story\obj\Debug\Ninja Story.pdb
